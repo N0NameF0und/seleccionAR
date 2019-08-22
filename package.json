@@ -1,0 +1,23 @@
+{
+  "name": "verklighet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N0NameF0und/seleccionAR.git"
+  },
+  "keywords": [
+    "investigation",
+    "protiping"
+  ],
+  "author": "N0NameF0und",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N0NameF0und/seleccionAR/issues"
+  },
+  "homepage": "https://github.com/N0NameF0und/seleccionAR#readme"
+}
